@@ -18,4 +18,4 @@ if (xp <= 1000) {
 } else if (xp >= 10001) {
   console.log("nivel radiante");
 }
-console.log("O herói de nome " + n + " está no nivel " + xp);
+console.log("O herói de nome " + n + " tem um total de  " + xp + " de xp");
